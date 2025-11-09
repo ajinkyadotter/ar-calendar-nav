@@ -1,0 +1,14 @@
+🚀 EASIEST WAY TO DEPLOY (No CLI needed!)
+
+STEP 1: Go to https://vercel.com/new
+
+STEP 2: Click "Browse" or drag & drop the entire "ar-calendar-nav" folder
+
+STEP 3: Click "Deploy"
+
+STEP 4: Wait 1-2 minutes and you'll get your link!
+
+That's it! No login, no CLI, no complicated setup.
+
+Your link will be: https://ar-calendar-nav-xxxxx.vercel.app
+

@@ -1,0 +1,30 @@
+FILES TO UPLOAD TO GITHUB
+==========================
+
+Upload these from: C:\Users\ajdot\ar-calendar-nav
+
+FOLDERS (upload entire folders):
+- app/
+- public/
+- .github/ (if exists)
+
+FILES:
+- package.json
+- package-lock.json
+- next.config.ts
+- tsconfig.json
+- postcss.config.mjs
+- eslint.config.mjs
+- vercel.json
+- .gitignore
+- README.md
+- next-env.d.ts
+
+SKIP THESE (don't upload):
+- node_modules/
+- .next/
+- .vercel/
+- *.log files
+
+After uploading to GitHub, go to Vercel and import the repository!
+
